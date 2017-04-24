@@ -1,0 +1,6 @@
+.DS_Store
+
+*.pyc
+*.csv
+*gene_association*
+*.gaf
